@@ -1,3 +1,4 @@
 Name: Mario
-Age: 30
+Age: 173
 Favorite Color: Black
+Favorie Anime: Naruto Shippuden
